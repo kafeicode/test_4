@@ -9,4 +9,11 @@ public class Test {
         System.out.println("hello git");
     }
 
+    //test
+    public void test() {
+
+        int i = 0;
+        System.out.println(i);
+    }
+
 }
